@@ -6,7 +6,7 @@ Raspberry powered mirror which can display the news, weather, and time.
 If you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed, clone the repository.
 
 ```
-git clone git@github.com:HackerHouseYT/Smart-Mirror.git
+git clone https://github.com/touseef124/Smart-Mirror-Project.git
 ```
 
 **Alternatively, you can download a zip file containing the project (green button on the repository page)**
@@ -44,7 +44,3 @@ To run the application run the following command in this folder
 ```
 python smartmirror.py
 ```
-
-## Demo and Build Instructions 
-(click image for link to video)
-[![Link to youtube how-to video](http://i.imgur.com/cMyaSHT.png)](https://youtu.be/fkVBAcvbrjU)
